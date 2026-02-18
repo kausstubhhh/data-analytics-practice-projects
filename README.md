@@ -19,7 +19,6 @@ The aim of these exercises is to develop practical skills in:
 - Supermarket Sales
 - Cookie Data
 
-Each folder contains the dataset and brief analysis notes.
 
 ## Tools Used
 - Microsoft Excel
